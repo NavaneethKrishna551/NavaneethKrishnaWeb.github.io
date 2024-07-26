@@ -7,4 +7,4 @@ if(user_name == "appu"){
 }
 */
 
-console.log("hi" + user_name)
+console.log("hi " + user_name)
