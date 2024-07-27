@@ -1,4 +1,3 @@
-let name = window.prompt("yo wasgud. Tell me yo name")
+let user_name = window.prompt("yo was gud. tell me ur name boi")
 
-
-console.log("hello world");
+console.log(user_name);
